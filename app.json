@@ -1,0 +1,17 @@
+{
+  "name": "iitr_confesses_frontend",
+  "displayName": "iitr_confesses_frontend",
+  "expo": {
+    "name": "iitr_confesses_frontend",
+    "slug": "iitr_confesses_frontend",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
